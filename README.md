@@ -26,7 +26,7 @@
 ### [Quidditch Project](/Quidditch%20Project/)
 
 ###### About
-The Quidditch Project is a low-poly time attack game.  The idea of the game is simple: collect coins as much as possible within the time limit.  The green slime will "steal" your coins when you come in contact.  At the end of the time limit, your score is displayed and you are given a choice whether to return to the main menu or replay the game.
+The Quidditch Project is a low-poly time attack game.  It was inspired by an old computer game that I used to play, Harry Potter's Quidditch, hence the project name.  The idea of the game is simple: collect coins as much as possible within the time limit.  The green slime will "steal" your coins when you come in contact.  At the end of the time limit, your score is displayed and you are given a choice whether to return to the main menu or replay the game.
 
 ###### Screenshots
 ![quidditch_mainmenu](https://cloud.githubusercontent.com/assets/14798722/22884615/676d229c-f228-11e6-8848-6128e44d8886.PNG)
